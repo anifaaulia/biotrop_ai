@@ -1,9 +1,9 @@
 from components.Header import *
 from components.Main import *
-def main():
 
+def main():
     Header()
     Main()
 
-if name == "main":
-    main()
+if __name__ == "__main__":
+    main()
