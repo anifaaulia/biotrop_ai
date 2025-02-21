@@ -5,5 +5,4 @@ openai
 langchain_community
 crewai
 crewai[tools]
-base-64
 serper
