@@ -4,4 +4,4 @@ python-dotenv
 openai
 langchain_community
 crewai[tools]
-serper-api
+serper
